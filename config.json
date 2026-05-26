@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsarse",
+        "uuid": 4641090,
+        "checksum": "sa0h8e"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
